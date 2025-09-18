@@ -81,6 +81,7 @@ guide-entry-shipyard-legman = Legman
 guide-entry-shipyard-liquidator = Liquidator
 guide-entry-shipyard-loader = Loader
 guide-entry-shipyard-lyrae = Lyrae
+guide-entry-shipyard-maguro = Maguro
 guide-entry-shipyard-mccargo = McCargo
 guide-entry-shipyard-mcdelivery = McDelivery
 guide-entry-shipyard-nightlight = Nightlight

@@ -43,6 +43,7 @@
   - ShipyardLiquidator
   - ShipyardLoader
   - ShipyardLyrae
+  - ShipyardMaguro
   - ShipyardMcCargo
   - ShipyardMcDelivery
   - ShipyardNightlight
@@ -258,6 +259,11 @@
   text: "/ServerInfo/_NF/Guidebook/Shipyard/Lyrae.xml"
 
 - type: guideEntry
+  id: ShipyardMaguro
+  name: guide-entry-shipyard-maguro
+  text: "/ServerInfo/_NF/Guidebook/Shipyard/Maguro.xml"
+
+- type: guideEntry
   id: ShipyardMcCargo
   name: guide-entry-shipyard-mccargo
   text: "/ServerInfo/_NF/Guidebook/Shipyard/McCargo.xml"
@@ -296,7 +302,7 @@
   id: ShipyardProspector
   name: guide-entry-shipyard-prospector
   text: "/ServerInfo/_NF/Guidebook/Shipyard/Prospector.xml"
-  
+
 - type: guideEntry
   id: ShipyardPulsar
   name: guide-entry-shipyard-pulsar
