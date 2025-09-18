@@ -1,5 +1,5 @@
 <Document>
-  # IZAKAYA-CLASS RESTAURANT SHUTTLE
+  # MAGURO-CLASS RESTAURANT SHUTTLE
   <Box>
   <GuideEntityEmbed Entity="SignKitchen" Caption=""/>
   <GuideEntityEmbed Entity="KitchenAssembler" Caption=""/>

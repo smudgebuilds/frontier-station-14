@@ -1,6 +1,6 @@
 - type: vessel
-  parent: BaseVessel
   id: Maguro
+  parent: BaseVessel
   name: NC Maguro
   description: A conveyor belt sushi restaurant shuttle originally deployed in the airspace around corporate leisure planets, now available in the secondary market. Features a full kitchen and hydroponics setup.
   price: 90000 #72262 0.2 86714.4

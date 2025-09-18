@@ -330,6 +330,17 @@
 
 - type: entity
   parent: PosterBase
+  id: ShuttleMapMaguro
+  name: "NC Maguro"
+  description: "Detailed map of a Maguro shuttle."
+  categories: [ HideSpawnMenu ]
+  components:
+  - type: Sprite
+    sprite: _NF/Guidebook/shuttle_maps/128x96.rsi
+    state: maguro
+
+- type: entity
+  parent: PosterBase
   id: ShuttleMapNightlight
   name: "FSB Nightlight"
   description: "Detailed map of a Nightlight shuttle."
@@ -415,17 +426,6 @@
   - type: Sprite
     sprite: _NF/Guidebook/shuttle_maps/128x96.rsi
     state: searchlight
-
-- type: entity
-  parent: PosterBase
-  id: ShuttleMapMaguro
-  name: "NC Maguro"
-  description: "Detailed map of a Maguro shuttle."
-  categories: [ HideSpawnMenu ]
-  components:
-  - type: Sprite
-    sprite: _NF/Guidebook/shuttle_maps/128x96.rsi
-    state: maguro
 
 - type: entity
   parent: PosterBase
